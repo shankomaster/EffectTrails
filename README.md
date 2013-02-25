@@ -1,0 +1,4 @@
+EffectTrails
+============
+
+EffectTrails Bukkit Plugin
